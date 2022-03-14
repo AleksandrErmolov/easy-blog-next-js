@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19ff76b9-9900-4e09-9f66-5133ea5ea96f" name="Changes" comment="" />
+    <list default="true" id="19ff76b9-9900-4e09-9f66-5133ea5ea96f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/simple-blog/components/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-blog/public/blog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-blog/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-blog/pages/api/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-blog/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-blog/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-blog/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/styles/styles.sass" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +30,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/simple-blog/public" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Мои проекты\easy-blog-next-js\simple-blog\public" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,12 +47,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647280545849</updated>
-      <workItem from="1647280549494" duration="723000" />
+      <workItem from="1647280549494" duration="5479000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
