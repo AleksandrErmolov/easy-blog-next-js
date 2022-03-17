@@ -3,7 +3,8 @@ import Layout from "../components/Layout";
 
 export default function Home() {
   return (
-  <Layout>
+  <Layout title={'Главная'}>
+<h1> Интересный блог </h1>
 
   </Layout>
   )

@@ -1,7 +1,7 @@
 import React from 'react';
 import '../public/blog.png'
 import {Head} from "next/document";
-
+import Link from 'next/link'
 
 const Layout = ({title, description = '', children}) => {
     return (

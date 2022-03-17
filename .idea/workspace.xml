@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19ff76b9-9900-4e09-9f66-5133ea5ea96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/simple-blog/components/Layout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-blog/public/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-blog/components/BlogItem.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-blog/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-blog/pages/api/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-blog/components/Layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/components/Layout.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple-blog/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-blog/styles/Home.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-blog/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/styles/styles.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-blog/styles/styles.sass" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/styles/styles.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +15,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="ProjectId" id="26O2vn2ZrleFXg0DNYINtwx5cyU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,7 +32,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/simple-blog/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="actions.on.save" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -48,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647280545849</updated>
       <workItem from="1647280549494" duration="5479000" />
+      <workItem from="1647543012890" duration="2093000" />
     </task>
     <servers />
   </component>
@@ -64,8 +71,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
