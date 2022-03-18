@@ -1,11 +1,14 @@
-
 import Layout from "../components/Layout";
 
 export default function Home() {
-  return (
-  <Layout title={'Главная'}>
-<h1> Интересный блог </h1>
+    return (
+        <Layout title={'Главная'}>
+            <h1> Интересный блог </h1>
+            <div className='posts'>
 
-  </Layout>
-  )
+            </div>
+        </Layout>
+    )
 }
+
+export const

@@ -1,6 +1,4 @@
-import React from 'react';
-import '../public/blog.png'
-import {Head} from "next/document";
+import Head from "next/head";
 import Link from 'next/link'
 
 const Layout = ({title, description = '', children}) => {
@@ -9,13 +7,15 @@ const Layout = ({title, description = '', children}) => {
             <Head>
                 <title>{title} || Simple Blog NextJs </title>
                 <meta name='description' content={description || 'Простой блог'}/>
-                <meta property='og:description' content={description || 'Простой блог'}/>
-                <link rel="icon" href="/favicon.ico" />
+                <meta property='og:description' content={description || 'Простой блог на NextJS'}/>
+                <link rel="icon" href="/favicon.ico" type='image/ico'/>
             </Head>
 
             <header>
+                <Link href='/'>
+                    <a>Главная</a>
+                </Link>
                 <img src='/blog.png' alt=''/>
-                <Link href='/'> <a>Главная</a> </Link>
             </header>
 
             <div className="cotainer">
@@ -23,7 +23,7 @@ const Layout = ({title, description = '', children}) => {
             </div>
 
 
-            <footer>
+            <footer className='footer'>
                 2021 &copy; Simple Blog NextJs
             </footer>
         </>
