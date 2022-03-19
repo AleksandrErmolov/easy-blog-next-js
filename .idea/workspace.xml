@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19ff76b9-9900-4e09-9f66-5133ea5ea96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/simple-blog/components/BlogItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-blog/pages/localstorage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple-blog/components/Layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/components/Layout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-blog/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple-blog/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple-blog/styles/styles.sass" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/styles/styles.sass" afterDir="false" />
     </list>
@@ -31,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/simple-blog/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/simple-blog/pages" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -42,6 +43,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Мои проекты\easy-blog-next-js\simple-blog\pages" />
       <recent name="D:\Мои проекты\easy-blog-next-js\simple-blog\public" />
     </key>
   </component>
@@ -55,6 +57,8 @@
       <updated>1647280545849</updated>
       <workItem from="1647280549494" duration="5479000" />
       <workItem from="1647543012890" duration="2093000" />
+      <workItem from="1647622793485" duration="6744000" />
+      <workItem from="1647715642552" duration="3004000" />
     </task>
     <servers />
   </component>

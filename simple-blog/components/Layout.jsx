@@ -15,6 +15,10 @@ const Layout = ({title, description = '', children}) => {
                 <Link href='/'>
                     <a>Главная</a>
                 </Link>
+                <Link href='/localstorage'>
+                    <a>LocalStorage</a>
+                </Link>
+
                 <img src='/blog.png' alt=''/>
             </header>
 
