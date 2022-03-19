@@ -2,12 +2,15 @@ import Layout from "../components/Layout";
 import BlogItem from '../components/BlogItem'
 
 export default function Home({posts}) {
+    console.log(posts)
+
     return (
+
         <Layout title={'Главная'}>
             <h1> Интересный блог </h1>
             <div className='posts'>
                 {posts.map(post =>
-                    <BlogItem title={post.title} description={post.description} id={post.id}/>
+                    <BlogItem key={post.id} title={post.title} description={post.body} id={post.id}/>
                     )}
             </div>
         </Layout>

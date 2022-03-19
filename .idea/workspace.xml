@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19ff76b9-9900-4e09-9f66-5133ea5ea96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/simple-blog/pages/localstorage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-blog/pages/blog/[id].jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-blog/components/Layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/components/Layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-blog/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple-blog/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple-blog/styles/styles.sass" beforeDir="false" afterPath="$PROJECT_DIR$/simple-blog/styles/styles.sass" afterDir="false" />
     </list>
@@ -58,7 +56,7 @@
       <workItem from="1647280549494" duration="5479000" />
       <workItem from="1647543012890" duration="2093000" />
       <workItem from="1647622793485" duration="6744000" />
-      <workItem from="1647715642552" duration="3004000" />
+      <workItem from="1647715642552" duration="7693000" />
     </task>
     <servers />
   </component>
