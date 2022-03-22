@@ -1,1 +1,1 @@
-# easy-blog-next-js
+# easy-blog-next-js finish
